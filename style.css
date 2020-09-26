@@ -1,0 +1,154 @@
+body {
+    font-size: 15pt;
+    
+}
+h1{
+  text-align: center;
+  margin: 50px 20px 0px 20px;
+  font-family: 'Spartan', sans-serif;
+  color: hsl(300, 43%, 22%);
+  font-size: 30px;
+}
+p{
+  line-height: 0.75cm;
+  font-family: 'Spartan', sans-serif;
+  text-align: center;
+  font-size: 14px;
+  margin: 40px 20px 0px 20px;
+    color: hsl(300, 10%, 53%);
+}
+
+.reviews{
+  font-family: 'Spartan', sans-serif;
+  margin: 20px 20px 0px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  background-color: hsl(300, 24%, 94%);
+  padding: 20px 20px 10px 20px;
+  border-radius: 8px;
+}
+.reviews,p{
+   color: hsl(300, 43%, 22%);
+}
+.guru {
+  font-family: 'Spartan', sans-serif;
+  margin: 20px 20px 0px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  background-color: hsl(300, 24%, 94%);
+  padding: 20px 20px 10px 20px;
+  border-radius: 8px;
+}
+.guru,p {
+  color: hsl(300, 43%, 22%);
+}
+.besttech{
+  font-family: 'Spartan', sans-serif;
+  margin: 20px 20px 0px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  background-color: hsl(300, 24%, 94%);
+  padding: 20px 20px 10px 20px;
+  border-radius: 8px;
+}
+.besttech,p{
+  color: hsl(300, 43%, 22%) !important;
+}
+
+.checked{
+  color: orange;
+  padding: 0px 5px 0px 5px;
+  margin: 0px 0px 0px 0px;
+  
+}
+
+.container,h3,h4{
+  font-family: 'Spartan', sans-serif;
+  margin: 50px 20px 0px 20px;
+  font-size: 14px;
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+  padding: 2px 20px 10px 0px;
+  border-radius: 8px;
+  
+}
+
+.authorname1{
+  margin-left: 70px;
+ margin-top: 40px;
+ margin-bottom: 0px;
+}
+.verified,h4{
+ margin-top:0px;
+ margin-left: 70px;
+ margin-bottom: 0px;
+ font-weight: normal !important;
+ color: hsl(333, 80%, 67%)
+}
+
+.para{
+  text-align: left;
+  margin: 8px 20px 5px 25px !important;
+  font-weight: normal !important;
+  padding-bottom: 20px;
+  padding-top:10px;
+  font-size: 13px;
+ line-height:0.5cm;
+}
+
+.container1,h3
+h4{
+  font-family: 'Spartan', sans-serif;
+  margin: 15px 20px 0px 20px;
+  font-size: 14px;
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+  padding: 2px 20px 10px 0px;
+  border-radius: 8px;}
+  
+  .authorname1,h3{
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+  
+  .para1 {
+    text-align: left;
+    margin: 8px 20px 5px 25px !important;
+    font-weight: normal !important;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 13px;
+    line-height: 0.5cm;
+  }
+  
+  .container2,
+  h3 h4 {
+    font-family: 'Spartan', sans-serif;
+    margin: 15px 20px 0px 20px;
+    font-size: 14px;
+    background-color: hsl(300, 43%, 22%);
+    color: white;
+    padding: 2px 20px 10px 0px;
+    border-radius: 8px;
+  }
+  
+  .authorname2,
+  h3 {
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+  
+  .para2 {
+    text-align: left;
+    margin: 8px 20px 5px 25px !important;
+    font-weight: normal !important;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 13px;
+    line-height: 0.5cm;
+  }
